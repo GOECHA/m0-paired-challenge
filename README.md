@@ -22,3 +22,9 @@ Work through the following steps. **As you see fit, make commits.**
 ## Submission
 
 The URL to your repository is what you will submit; have that page up and/or get the link copied to your clipboard.
+
+- [Paired Challenge JavaScript](https://github.com/GOECHA/m0-paired-challenge/blob/main/challenge/index.js)
+
+- [Paired Challenge MarkDown](https://github.com/GOECHA/m0-paired-challenge/blob/main/challenge/index.md)
+
+
