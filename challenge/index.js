@@ -2,7 +2,7 @@
 
 Little Red Book of Selling, The Little Book of Talent, JavaScript & JQuery, Battle Royale, Battle Royale
 
-```JAVASCRIPT
+
 var haveRead = true;
 var booksRead = 4
 var bookType = ("Fiction", "Non-Fiction", "Self Help");
@@ -12,4 +12,4 @@ var receivedMethod = ("Gift", "School", "Street Library");
 
 
 var harryPotter series = ('book1','book2', 'book3', 'book4', 'book5')
-// Harry Potter Series 
+// Harry Potter Series
